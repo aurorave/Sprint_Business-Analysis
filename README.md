@@ -9,3 +9,6 @@
 5. Suggestions for service improvement & profit maximization <br>
 6. Conclusion <br>
 7. References <br>
+
+## 진행 기간
+2022.11.03-11.16 (2주)
